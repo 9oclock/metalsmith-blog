@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-blog",
+  "version": "0.1.0",
+  "description": "Help implement blog functionality into metalsmith powered blogs",
+  "main": "index.js",
+  "url": "https://github.com/9oclock/metalsmith-blog",
+  "license": "MIT",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "moment": "^2.13.0"
+  },
+  "author": {
+    "name": "Sergio Moura",
+    "email": "sergio@moura.us"
+  },
+  "bugs": {
+    "url": "https://github.com/9oclock/metalsmith-blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9oclock/metalsmith-blog.git"
+  }
+}
